@@ -1,2 +1,2 @@
 # ling-comp
-Linguistic Compression in Human-Written Extreme Summaries
+Linguistic Compression in Single-Sentence Human-Written Summaries
